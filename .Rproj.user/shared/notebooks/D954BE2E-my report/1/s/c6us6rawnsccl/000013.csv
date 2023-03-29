@@ -1,0 +1,7 @@
+"0","nCountries <- gapminder_1997 %<%
+  select(country) %>%
+  n_distinct()
+"
+"2","Error in gapminder_1997 %<% select(country) : 
+  could not find function ""%<%""
+"
